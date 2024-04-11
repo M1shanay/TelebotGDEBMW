@@ -1,0 +1,1 @@
+BOT_KEY = '7043200599:AAHwmvu2s3roLkJk5MoAdxxg7ZxasW1xBDM'
